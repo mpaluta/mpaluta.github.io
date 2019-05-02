@@ -1,0 +1,9 @@
+---
+layout: none
+permalink: .well-known/brave-rewards-verification.txt
+---
+
+This is a Brave Rewards publisher verification file.
+
+Domain: markpaluta.com 
+Token: dcf01c6faaa26004b86a94b1cf902ba67dcc89cbf8a49dce8cd3bb05bd72e197
